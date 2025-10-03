@@ -26,7 +26,7 @@
     "@carbon/styles": "^1.89.0",
     "@reduxjs/toolkit": "^2.9.0",
     "ajv": "^8.17.1",
-    "better-sqlite3": "^12.2.0",
+    "better-sqlite3": "^12.4.1",
     "bunyan": "^1.8.15",
     "cheerio": "^1.1.2",
     "domelementtype": "^2.3.0",
